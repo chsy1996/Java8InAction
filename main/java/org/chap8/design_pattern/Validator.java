@@ -1,8 +1,8 @@
-package org.example.chap8.design_pattern;
+package org.chap8.design_pattern;
 
-import org.example.chap8.design_pattern.impl.IsLowerCaseStrategy;
-import org.example.chap8.design_pattern.impl.IsNumeric;
-import org.example.chap8.design_pattern.impl.IsUpperCaseStrategy;
+import org.chap8.design_pattern.impl.IsLowerCaseStrategy;
+import org.chap8.design_pattern.impl.IsNumeric;
+import org.chap8.design_pattern.impl.IsUpperCaseStrategy;
 
 public class Validator {
     public static void main(String[] args) {

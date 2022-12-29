@@ -1,6 +1,6 @@
-package org.example.chap8.design_pattern.impl;
+package org.chap8.design_pattern.impl;
 
-import org.example.chap8.design_pattern.ValidationStrategy;
+import org.chap8.design_pattern.ValidationStrategy;
 
 public class IsLowerCaseStrategy implements ValidationStrategy {
     @Override
