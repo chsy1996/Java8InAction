@@ -1,6 +1,6 @@
-package org.example.lambda_with_design_pattern.template.impl;
+package org.example.chap8.design_pattern.impl;
 
-import org.example.lambda_with_design_pattern.template.ValidationStrategy;
+import org.example.chap8.design_pattern.ValidationStrategy;
 
 public class IsUpperCaseStrategy implements ValidationStrategy {
     @Override

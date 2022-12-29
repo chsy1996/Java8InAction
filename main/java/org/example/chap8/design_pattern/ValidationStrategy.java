@@ -1,4 +1,4 @@
-package org.example.lambda_with_design_pattern.template;
+package org.example.chap8.design_pattern;
 
 public interface ValidationStrategy {
     boolean execute(String s);

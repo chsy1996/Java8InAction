@@ -1,8 +1,8 @@
-package org.example.lambda_with_design_pattern.template;
+package org.example.chap8.design_pattern;
 
-import org.example.lambda_with_design_pattern.template.impl.IsNumeric;
-import org.example.lambda_with_design_pattern.template.impl.IsLowerCaseStrategy;
-import org.example.lambda_with_design_pattern.template.impl.IsUpperCaseStrategy;
+import org.example.chap8.design_pattern.impl.IsLowerCaseStrategy;
+import org.example.chap8.design_pattern.impl.IsNumeric;
+import org.example.chap8.design_pattern.impl.IsUpperCaseStrategy;
 
 public class Validator {
     public static void main(String[] args) {
